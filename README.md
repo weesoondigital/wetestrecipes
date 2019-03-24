@@ -1,1 +1,1 @@
-# recipe collection 
+# my favorite recipe collection 
