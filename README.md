@@ -1,1 +1,1 @@
-# wetestrecipes
+# recipe collection 
